@@ -26,14 +26,6 @@ I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of 
 - Hallucination in Vision-Language Models (VLM)
 - LLM Truthfulness and Interpretability
 
-## Skills
-
-- Natural Language Processing
-- Machine Learning
-- Deep Learning
-- Large Language Models (LLMs)
-- Vision-Language Models (VLMs)
-
 ## Awards
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
