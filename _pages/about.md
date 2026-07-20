@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/franklhkellyc), Hong Kong University of Science and Technology, supervised by [Professor Junxian He](https://github.com/franklhkellyc). My research focuses on natural language processing and machine learning, with specific interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability.
+I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning, with specific interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability.
 
 ## Academic Background
 
